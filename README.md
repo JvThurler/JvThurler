@@ -1,4 +1,4 @@
-## Olá, eu sou o João Vitor 👋
+## Olá, eu sou o João Vitor 
 
 **Desenvolvedor de Software** focado em **PHP/Laravel** e **Python**, com experiência real no setor público — sistemas internos usados por milhares de usuários e painéis de Business Intelligence que monitoram dados em escala nacional.
 
